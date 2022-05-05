@@ -1,0 +1,10 @@
+.TopBar {
+	background-color: #232F3E;
+	text-align: center;
+	width: 100vw;
+	height: 70px;
+}
+.TopBar > img {
+	width: 100px;
+	object-fit: contain;
+}
